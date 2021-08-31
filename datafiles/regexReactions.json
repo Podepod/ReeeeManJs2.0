@@ -1,0 +1,146 @@
+[
+  {
+    "regex": "\\bksa\\b",
+    "flags": "gmi",
+    "enabled": true,
+    "userOnly": false,
+    "userid": "",
+    "reaction": "🤮"
+  },
+  {
+    "regex": "\\bchiro\\b",
+    "flags": "gmi",
+    "reaction": "<:Chiro:791039972140384267>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bverified\\b",
+    "flags": "gmi",
+    "reaction": "<a:verified:771836625755045898>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bscouts*\\b",
+    "flags": "gmi",
+    "reaction": "<:Scouts:791069733553438730>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "🤢",
+    "flags": "gmi",
+    "reaction": "🤮",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bwijn\\b",
+    "flags": "gmi",
+    "reaction": "🍷",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bpython\\b",
+    "flags": "gmi",
+    "reaction": "<:python:793618617052430347>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bc\\b",
+    "flags": "gmi",
+    "reaction": "<:c_:793619442277941298>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\b((cpp)|(c\\+\\+))\\b",
+    "flags": "gmi",
+    "reaction": "<:cpp:793619568161062973>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bjava(([^-])|( *)|(\\n))\\b",
+    "flags": "gmi",
+    "reaction": "<:java:793619714454323201>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bjava-*script\\b",
+    "flags": "gmi",
+    "reaction": "<:javascript:793619731168493588>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bnode *js\\b",
+    "flags": "gmi",
+    "reaction": "<:nodejs:793619592705867837>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bbloempot\\b",
+    "flags": "gmi",
+    "reaction": "<a:bloempot2:775858251346477096>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bping\\b",
+    "flags": "gmi",
+    "reaction": "🏓",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "l+(o|ö|ô|0)+d+(e|ë|ê|3)",
+    "flags": "gmi",
+    "reaction": "<a:bloempot3:779133364380762163>",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bsquid\\b",
+    "flags": "gmi",
+    "reaction": "🦑",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bassembly\\b",
+    "flags": "gmi",
+    "reaction": "🤮",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  },
+  {
+    "regex": "\\bno(odle|edel)s*\\b",
+    "flags": "gmi",
+    "reaction": "🍜",
+    "enabled": true,
+    "userOnly": false,
+    "userID": ""
+  }
+]

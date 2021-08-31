@@ -1,0 +1,144 @@
+form {
+    width: 100%;
+}
+
+.formcontrolwrap {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+}
+
+.formcontrolwrap h1, 
+.formcontrolwrap h2, 
+.formcontrolwrap h3, 
+.formcontrolwrap h4 {
+    align-self: flex-start;
+}
+
+.formblock {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+}
+
+.formcontrol {
+    display: flex;
+    width: 100%;
+    flex-flow: row nowrap;
+    align-items: center;
+    margin-bottom: 0.4em;
+}
+
+.formcontrol > label {
+    display: inline-block;
+    width: 40%;
+    text-align: left;
+    padding: 0.4em;
+    margin-right: 1em;
+}
+
+.formcontrol > input {
+    display: inline-block;
+    width: 50%;
+    background-color: var(--bg-light);
+    color: var(--txt-color);
+    border: none;
+    border-radius: 0.3em;
+    padding: 0.6em;
+}
+
+.formcontrol > input:focus {
+    outline: none;
+    color: var(--txt-color);
+    background-color: var(--bg-less-light);
+}
+
+.formcontrol:focus-within > label{
+    color: var(--txt-light);
+}
+
+.formcontrol:hover > input {
+    background-color: var(--bg-less-light);
+}
+
+.formcontrol:hover > label {
+    color: var(--txt-light);
+}
+
+/* password visibility switch */
+input.toggleVisPass {
+    width: 40%;
+    border-radius: 0.3em 0 0 0.3em;
+    border-right: 0.2em solid var(--bg-color);
+}
+
+button.toggleVisPass {
+    width: 9.6%;
+    border-radius: 0 0.3em 0.3em 0;
+    border: none;
+    background-color: var(--bg-light);
+    color: var(--txt-color);
+    padding: 0.6em;
+}
+
+button.toggleVisPass:focus {
+    outline: none;
+    background-color: var(--bg-less-light);
+}
+
+button.toggleVisPass:hover {
+    cursor: pointer;
+    background-color: var(--bg-less-light);
+}
+
+/* ArrayTextList */
+.arrayTextList {
+    display: flex;
+    width: 100%;
+    flex-flow: column nowrap;
+    align-items: flex-start;
+}
+
+.arrayTextList > .formcontrol > input {
+    width: 40%;
+}
+
+button.deleteBtn {
+    background-color: var(--bg-delete);
+    color: var(--txt-delete);
+}
+
+button.deleteBtn:focus {
+    color: var(--txt-delete-light);
+    background-color: var(--bg-delete-light);
+}
+
+button.deleteBtn:hover {
+    color: var(--txt-delete-light);
+    background-color: var(--bg-delete-light);
+}
+
+/* submit button */
+button[type=submit] {
+    background-color: var(--bg-light);
+    color: var(--txt-light);
+    border: none;
+    border-radius: 0.3em;
+    padding: 0.6em;
+    outline: none;
+}
+
+button[type=sumbit]:focus {
+    outline: none;
+    color: var(--txt-color);
+    background-color: var(--bg-less-light);
+}
+
+button[type=submit]:hover {
+    color: var(--txt-color);
+    background-color: var(--bg-less-light);
+    cursor: pointer;
+}

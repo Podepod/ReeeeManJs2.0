@@ -1,0 +1,194 @@
+[
+  {
+    "regex": "\\bree+\\b",
+    "flags": "gmi",
+    "response": "https://tenor.com/view/reeeeeeeeeeeeeeeeee-gif-19312523",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "v+i+b+e+c+h+e+c+k+",
+    "flags": "gmi",
+    "response": "Reeeeeeee",
+    "tts": false,
+    "enabled": false,
+    "removeMessage": false
+  },
+  {
+    "regex": "^\\bpls\\b",
+    "flags": "gmi",
+    "response": "Weeral?",
+    "tts": false,
+    "enabled": false,
+    "removeMessage": false
+  },
+  {
+    "regex": "(\\byee+t the child!*\\b)|(^\\bytc\\b)",
+    "flags": "gmi",
+    "response": "https://media.discordapp.net/attachments/564842933593833511/781156525896499250/6a2.png",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\byee+t\\b$",
+    "flags": "gmi",
+    "response": "https://media.discordapp.net/attachments/564842933593833511/783411071184142336/yayeet.gif",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "^\\bbu+r+n+\\b",
+    "flags": "gmi",
+    "response": "https://media.discordapp.net/attachments/564842933593833511/783409469571858452/FLAMING_ELMO.gif?width=538&height=671",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": true
+  },
+  {
+    "regex": "\\bbloempot\\b",
+    "flags": "gmi",
+    "response": "https://media.discordapp.net/attachments/777697840464920586/788907210067148810/bloempot3.gif",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bswinnen?\\b",
+    "flags": "gmi",
+    "response": "https://tenor.com/view/cute-comfort-massage-gif-15134902",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": true
+  },
+  {
+    "regex": "\\b(discord|reddit) (light|white)\\b",
+    "flags": "gmi",
+    "response": "",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": true
+  },
+  {
+    "regex": "\\blil'? pump\\b",
+    "flags": "gmi",
+    "response": "https://media.discordapp.net/attachments/564842933593833511/790319633932484648/bankje.png?width=768&height=657",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bheil\\b",
+    "flags": "gmi",
+    "response": "",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": true
+  },
+  {
+    "regex": "l+(o|ö|ô|0)+d+(e|ë|ê|3)",
+    "flags": "gmi",
+    "response": "",
+    "tts": false,
+    "enabled": false,
+    "removeMessage": true
+  },
+  {
+    "regex": "^bb",
+    "flags": "gm",
+    "response": "Weeral?",
+    "tts": false,
+    "enabled": false,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\b(satan)|(lucifer)\\b",
+    "flags": "gmi",
+    "response": "Ja?",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bo(e|o)ga *bo(e|o)ga\\b",
+    "flags": "gmi",
+    "response": "https://imgur.com/a/HJ7xc4K",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bsweet home alabama\\b",
+    "flags": "gmi",
+    "response": "https://imgur.com/a/Jn3wgRU",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bno(odle|edel)s*\\b",
+    "flags": "gmi",
+    "response": "🍜🍜🍜🍜🍜",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bheel veel no(odle|edel)s\\b",
+    "flags": "gmi",
+    "response": "🍜🍜🍜🍜🍜",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bheel veel no(odle|edel)s\\b",
+    "flags": "gmi",
+    "response": "🍜🍜🍜🍜🍜",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bheel veel no(odle|edel)s\\b",
+    "flags": "gmi",
+    "response": "🍜🍜🍜🍜🍜",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\bheel veel no(odle|edel)s\\b",
+    "flags": "gmi",
+    "response": "🍜🍜🍜🍜🍜",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "\\b(f *a *r *t)|(scheet)\\b",
+    "flags": "gmi",
+    "response": "https://imgur.com/a/oenHKI3",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false
+  },
+  {
+    "regex": "brr+",
+    "response": "brrrrrrrrrrrrrrrrrrrrrrrrrr",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false,
+    "flags": "gmi"
+  },
+  {
+    "regex": "\\bdanku lucifer\\b",
+    "response": "Graag gedaan",
+    "tts": false,
+    "enabled": true,
+    "removeMessage": false,
+    "flags": "gmi"
+  }
+]

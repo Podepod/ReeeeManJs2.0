@@ -1,0 +1,11 @@
+[
+  {
+    "enabled": false,
+    "userOnly": false,
+    "userid": "",
+    "regex": "\\b(o+w+o+)|(u+w+u+)\\b",
+    "flags": "gmi",
+    "ownerAnswer": "Foei",
+    "answer": "BANNED"
+  }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Home",
+        "link": "/",
+        "description": "A simple home page for this website",
+        "icon": "home.png",
+        "hidden": {
+            "home": true,
+            "nav": false
+        }
+    },
+    {
+        "title": "RegEx",
+        "link": "regex",
+        "description": "The page for all things RegEx",
+        "icon": "regex.png",
+        "hidden": {
+            "home": false,
+            "nav": false
+        }
+    },
+    {
+        "title": "Misc",
+        "link": "misc",
+        "description": "The page for all miscellaneous stuff",
+        "icon": "misc.png",
+        "hidden": {
+            "home": false,
+            "nav": false
+        }
+    },
+    {
+        "title": "Vibes",
+        "link": "vibes",
+        "description": "Manage all vibes",
+        "icon": "vibes.png",
+        "hidden": {
+            "home": false,
+            "nav": false
+        }
+    },
+    {
+        "title": "Leveling",
+        "link": "leveling",
+        "description": "Leveling settings",
+        "icon": "leveling.png",
+        "hidden": {
+            "home": false,
+            "nav": false
+        }
+    },
+    {
+        "title": "Twitter Settings",
+        "link": "twitterSettings",
+        "description": "Settings for the twitter module",
+        "icon": "twitterSettings.png",
+        "hidden": {
+            "home": false,
+            "nav": false
+        },
+        "position": "right"
+    },
+    {
+        "title": "Discord Settings",
+        "link": "discordSettings",
+        "description": "Settings for the discord module",
+        "icon": "discordSettings.png",
+        "hidden": {
+            "home": false,
+            "nav": false
+        }
+    }
+]

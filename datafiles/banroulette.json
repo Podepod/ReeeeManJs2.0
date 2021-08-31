@@ -1,0 +1,21 @@
+{
+  "564842932981596161": {
+    "enabled": true,
+    "minPlayers": 3,
+    "players": [
+      {
+        "id": "227505246572642315",
+        "name": "Squid"
+      },
+      {
+        "id": "286864861009412098",
+        "name": "Podepod"
+      },
+      {
+        "id": "220608878402863106",
+        "name": "CelestialOhio32"
+      }
+    ],
+    "gamesPlayed": 0
+  }
+}

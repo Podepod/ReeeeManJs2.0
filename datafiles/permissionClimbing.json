@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "log": {
+    "enabled": true,
+    "channel": "777697840464920586"
+  },
+  "make_new_role": {
+    "enabled": true,
+    "name": "Reeee Master",
+    "color": "0xB70EEB",
+    "hoist": true
+  }
+}

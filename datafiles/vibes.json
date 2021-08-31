@@ -1,0 +1,176 @@
+{
+  "positive": [
+    {
+      "text": "Yes please",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/ObvDau1",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/fg4r2g5",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/J9iQU6J",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "👌",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "Nice",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "Spicy",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    }
+  ],
+  "negative": [
+    {
+      "text": "Trying to find your vibe is like trying to divide by zero.",
+      "enabled": true,
+      "suggested_by": "Me"
+    },
+    {
+      "text": "Oh no",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://media.discordapp.net/attachments/796706520125145089/796881782573891614/voutd9i3vh161.png",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/VFUgjQX",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/wi561QW",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "Fuck this.",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "Your vibe was damaged during shipping",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "Global warming is your fault.",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "Your vibe is absolute ***shit*** today",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/tGPdum3",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "They're being paid to love you",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "It'll be fine someday. But for now your vibe is shit, just pure shit",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    }
+  ],
+  "neutral": [
+    {
+      "text": "Vibe = 6/11 marks",
+      "enabled": true,
+      "suggested_by": "Me"
+    },
+    {
+      "text": "Stay where you are",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/s504P6U",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/Djc8SfY",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/KDfxABg",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "You lick your fingers when turning a page on a kindle, don't you?",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    }
+  ],
+  "neither": [
+    {
+      "text": "I wanna be like you when I grow up!",
+      "enabled": true,
+      "suggested_by": "Me"
+    },
+    {
+      "text": "https://imgur.com/a/erkaqhK",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/5ZVR6Y9",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://imgur.com/a/uBfpG85",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "Keep a good mindset, it'll help!",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "Keep those grades up!",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "It's though being you",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    },
+    {
+      "text": "https://media.discordapp.net/attachments/718222496045727844/797213337485049856/f7a621e.jpg",
+      "enabled": true,
+      "suggested_by": "Bloempot"
+    }
+  ],
+  "requests": []
+}

@@ -1,0 +1,11 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <polyline stroke-linecap="round" id="svg_3" points="914.8152918815613,207.40757513046267 915.5560328960418,207.40757513046267 " stroke="#fff" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_5" points="940.0004863739015,233.33351063728333 939.2597453594208,233.33351063728333 938.5190043449403,233.33351063728333 " stroke="#fff" fill="none"/>
+  <path id="svg_9" d="m932.35736,243.9724l0.14228,-0.44202l0.3725,-0.27318l0.46044,0l0.3725,0.27318l0.14228,0.44202l-0.14228,0.44202l-0.3725,0.27318l-0.46044,0l-0.3725,-0.27318l-0.14228,-0.44202z" stroke-width="28" stroke="#000" fill="none"/>
+  <ellipse ry="126.29634" rx="310.00011" id="svg_11" cy="312.22243" cx="393.70399" stroke-width="28" stroke="#fff" fill="none"/>
+  <ellipse ry="125.18523" rx="63.33336" id="svg_13" cy="311.11132" cx="410.00029" stroke-width="28" stroke="#fff" fill="none"/>
+ </g>
+
+</svg>
