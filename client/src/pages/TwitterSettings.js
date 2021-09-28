@@ -24,6 +24,7 @@ class TwitterSettings extends Component {
             <form action={`${process.env.REACT_APP_API_URL}/twitter/settings`} method="POST"> 
             {/* mogelijks opvangen met een functie ipv een action (handleSubmit functie die wordt uitgevoerd *onSumbit* met 'event.preventDefault();' op het einde v/d functie) */}
             {/* https://reactjs.org/docs/forms.html */}
+            {/* https://jasonwatmore.com/post/2020/02/01/react-fetch-http-post-request-examples --> post request met nodejs */}
               <Redirect page="twitterSettings" /> {/* dan is die redirect uiteraard wel nimeer nodig... */}
                 
               <div className="formblock">

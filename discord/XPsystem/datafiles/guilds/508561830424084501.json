@@ -1,0 +1,253 @@
+{
+  "name": "DBHaatgroep",
+  "icon": "https://cdn.discordapp.com/icons/508561830424084501/1d887ebe6d94fce7f28e31a76cecf955.webp",
+  "useGlobalAccounts": false,
+  "adminCheats": false,
+  "xpTrading": false,
+  "notifications": {
+    "enabled": false,
+    "channel": null
+  },
+  "daily": {
+    "enabled": true,
+    "startAmount": 50,
+    "multiplier": 1.4,
+    "maxStreak": 10
+  },
+  "users": {
+    "286864861009412098": {
+      "name": "Podepod",
+      "xp": 18053,
+      "level": 53,
+      "levelXp": 17742,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "220608878402863106": {
+      "name": "CelestialOhio32",
+      "xp": 20237,
+      "level": 58,
+      "levelXp": 20116,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "227505246572642315": {
+      "name": "Squid",
+      "xp": 21197,
+      "level": 60,
+      "levelXp": 21092,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "543763556860952596": {
+      "name": "BiGooble",
+      "xp": 13097,
+      "level": 42,
+      "levelXp": 12873,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "494942175398985728": {
+      "name": "real KGB agent",
+      "xp": 9914,
+      "level": 34,
+      "levelXp": 9662,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "161162695083687938": {
+      "name": "lucascool12",
+      "xp": 1273,
+      "level": 6,
+      "levelXp": 1107,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "188962533976047617": {
+      "name": "Sander11cool",
+      "xp": 2971,
+      "level": 13,
+      "levelXp": 2784,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "229145230752874496": {
+      "name": "Killyan",
+      "xp": 16,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "305605049273417728": {
+      "name": "WoepsFJ",
+      "xp": 13,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "273151222763094016": {
+      "name": "Hndrk",
+      "xp": 15,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "846391120308600883": {
+      "name": "BLOEMPOT",
+      "xp": 57,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "224130615119839232": {
+      "name": "Dranouter",
+      "xp": 3,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "260438550414229515": {
+      "name": "Flower",
+      "xp": 66,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "199618705804492801": {
+      "name": "smogger123",
+      "xp": 3,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "232504189861888001": {
+      "name": "Vallion8",
+      "xp": 33,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "301083944818966528": {
+      "name": "Absolutely NOT a f*cking weeb",
+      "xp": 11,
+      "level": 0,
+      "levelXp": 0,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    }
+  },
+  "booster": {
+    "enabled": false,
+    "alwaysOn": false,
+    "multiplier": 2,
+    "description": "Boost xp on the server",
+    "duration": 0,
+    "endTime": "2021-05-22T18:33:36.396Z"
+  },
+  "leaders": [
+    "227505246572642315",
+    "220608878402863106",
+    "286864861009412098",
+    "543763556860952596",
+    "494942175398985728",
+    "188962533976047617",
+    "161162695083687938",
+    "260438550414229515",
+    "846391120308600883",
+    "232504189861888001",
+    "229145230752874496",
+    "273151222763094016",
+    "305605049273417728",
+    "301083944818966528",
+    "224130615119839232",
+    "199618705804492801"
+  ],
+  "roles": {},
+  "squads": {
+    "enabled": false,
+    "booster": {
+      "enabled": false,
+      "multiplier": 2
+    },
+    "cost": {
+      "start": 5000,
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0
+    },
+    "maxMembers": -1,
+    "squads": {}
+  }
+}

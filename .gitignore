@@ -1,5 +1,6 @@
 /api/node_modules
 /client/node_modules
+/discord/node_modules
 
 /datafiles/botSettings.json
 /datafiles/twitterKeys.json

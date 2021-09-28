@@ -169,6 +169,8 @@ class ArrayTextListItem extends Component {
         this.setState({value: event.target.value, index: this.state.index})
     }
 
+    // als veld niet meer gefocust is, sla dan op
+
     render() {
         return (
             <div className="formcontrol">

@@ -1,0 +1,84 @@
+{
+  "name": "Bot Test Server",
+  "icon": "https://cdn.discordapp.com/icons/564842932981596161/999416c6fc4897c0d422d88c13b1ab4c.webp",
+  "useGlobalAccounts": false,
+  "adminCheats": false,
+  "xpTrading": false,
+  "notifications": {
+    "enabled": false,
+    "channel": null
+  },
+  "daily": {
+    "enabled": true,
+    "startAmount": 50,
+    "multiplier": 1.4,
+    "maxStreak": 10
+  },
+  "users": {
+    "286864861009412098": {
+      "name": "Podepod",
+      "xp": 1294213,
+      "level": 1000,
+      "levelXp": 1294108,
+      "dailyStreak": {
+        "streak": 1,
+        "last": "2021-07-29T21:27:27.307Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "227505246572642315": {
+      "name": "Squid",
+      "xp": 2722,
+      "level": 12,
+      "levelXp": 2522,
+      "dailyStreak": {
+        "streak": 1,
+        "last": "2021-05-24T17:11:43.568Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    },
+    "846391120308600883": {
+      "name": "BLOEMPOT",
+      "xp": 16365,
+      "level": 50,
+      "levelXp": 16365,
+      "dailyStreak": {
+        "streak": 0,
+        "last": "2021-05-22T18:33:36.396Z"
+      },
+      "inSquad": false,
+      "prestige": 0
+    }
+  },
+  "booster": {
+    "enabled": false,
+    "alwaysOn": false,
+    "multiplier": 2,
+    "description": "Boost xp on the server",
+    "duration": 0,
+    "endTime": "2021-05-22T18:33:36.396Z"
+  },
+  "leaders": [
+    "286864861009412098",
+    "846391120308600883",
+    "227505246572642315"
+  ],
+  "roles": {},
+  "squads": {
+    "enabled": false,
+    "booster": {
+      "enabled": false,
+      "multiplier": 2
+    },
+    "cost": {
+      "start": 5000,
+      "daily": 0,
+      "weekly": 0,
+      "monthly": 0
+    },
+    "maxMembers": -1,
+    "squads": {}
+  }
+}

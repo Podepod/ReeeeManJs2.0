@@ -1,0 +1,9 @@
+{
+    "basic": "De basic commands zoals ping en help",
+    "misc": "De random onnodige commands",
+    "info": "De commands die u iets van informatie terugsturen",
+    "vibes": "Just vibin'",
+    "leveling": "De commands voor het leveling system",
+    "twitter": "De commands waarmee je de twitterbot kan testen",
+    "gezelschapspelen": "De commands voor het spelen van gezelschapspelen"
+}
